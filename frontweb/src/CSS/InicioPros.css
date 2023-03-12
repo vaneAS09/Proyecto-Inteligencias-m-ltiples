@@ -1,0 +1,193 @@
+
+.Inicio_pros_barra {
+/* Layout Properties */
+top: -1.24658203125px;
+left: -0.32568359375px;
+width: 1076px;
+height: 71px;
+/* UI Properties */
+background: #C70000 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 3px 6px #3A1B1B29, 0px 3px 6px #10010129;
+opacity: 1;
+}
+
+.Inicio_pros_logo {
+position: absolute;
+top: 15px;
+left: 26px;
+width: 102px;
+height: 57px;
+background: transparent url('../Images/logo_tim.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+
+.Inicio_pros_font{
+    position: absolute;
+    top: 21px;
+    left: 160px;
+    width: 128px;
+    height: 35px;
+    text-align: left;
+    font: normal normal 900 26px/36px Segoe UI;
+    letter-spacing: 0px;
+    color: #faf5f6;
+    opacity: 1;
+
+}
+
+.Inicio_pros_cerrar{
+    position: absolute;
+    top: 0px;
+    left: 1026px;
+    width: 31px;
+    height: 67px;
+    text-align: left;
+    font: normal normal 900 50px/68px Segoe UI;
+    letter-spacing: 0px;
+    color: #EF4F4F;
+    opacity: 1;
+}
+
+.Inicio_pros_contenedor{
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    width: 1075px;
+    height: 1559px;
+    background: #b5001A 0% 0% no-repeat padding-box;
+    opacity: 1;   
+}
+
+.Inicio_pros_contenedor2{
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    width: 1075px;
+    height: 1559px;
+    background: #faf8f8 0% 0% no-repeat padding-box;
+    opacity: 1;   
+}
+
+.Inicio_pros_body-Vistas{
+    position: absolute;
+    /* Layout Properties */
+    top: 40px;
+    left: 0px;
+    width: 1075px;
+    height: 5000px;
+    /* UI Properties */
+    background: transparent url('../Images/PalmerasUAO.jpeg') 20% 20% no-repeat padding-box; 
+    background-position-y:10cm;
+    opacity: 1;  
+}
+
+.Inicio_pros_body{
+position: absolute;
+/* Layout Properties */
+top: 672px;
+left: 0px;
+width: 1075px;
+height: 887px;
+/* UI Properties */
+background: transparent url('../Images/Cuadrícula de repetición 1.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.Inicio_pros_Registrarse{
+    position: absolute;
+    top: 23px;
+    left: 80px;
+    width: 163px;
+    height: 163px;
+    background: transparent url('../Images/registroprospecto.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+
+.Inicio_pros_caja1{
+position: absolute;
+  /* Layout Properties */
+top: 276px;
+left: 227px;
+width: 621px;
+height: 139px;
+/* UI Properties */
+background: #600077 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 3px 6px #00000029;
+border-radius: 70px;
+opacity: 1;
+
+}
+
+.Inicio_pros_fuente_registro{
+position: absolute;
+top: 30px;
+left: 220px;
+width: 256px;
+height: 62px;
+text-align: center;
+font: normal normal 900 46px/63px Segoe UI;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+cursor: pointer;
+
+}
+
+
+
+.Inicio_pros_caja2{
+/* Layout Properties */
+position: absolute;
+top: 498px;
+left: 227px;
+width: 621px;
+height: 139px;
+/* UI Properties */
+background: #FFB100 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 3px 6px #00000029;
+border-radius: 70px;
+opacity: 1;
+    }
+
+
+
+.Inicio_pros_initTest{
+    position: absolute;
+    top: 24px;
+    left: 40px;
+    width: 163px;
+    height: 163px;
+    background: transparent url('../Images/Iniciotestprospecto.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.Inicio_pros_fuente_initTest{
+/* Layout Properties */
+position: absolute;
+top: 30px;
+left: 150px;
+width: 400px;
+height: 70px;
+/* UI Properties */
+text-align: left;
+font: normal normal 900 46px/63px Segoe UI;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.Inicio_pros_fuente_recuperar{
+    position: absolute;
+    top: 870px;
+    left: 290px;
+    width: 230px;
+    height: 35px;
+    text-align: left;
+    font: normal oblique 900 24px/36px Segoe UI;
+    letter-spacing: 0px;
+    color: #242222;
+    opacity: 1;
+    cursor: pointer;
+}
+
