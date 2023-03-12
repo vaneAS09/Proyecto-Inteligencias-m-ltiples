@@ -1,0 +1,74 @@
+
+
+.TablaInteligencias{
+position: relative;
+top: 0px;
+left: 100px;
+width: 159px;
+height: 154px;
+background-image:url('../Images/tablaInteligencias2.png');
+border:0px;
+    }
+
+    .GrafInteligencias{
+        position: relative;
+        top: 20px;
+        left: 20px;
+        width: 200px;
+        height: 200px;
+        background: url('../Images/graficaINTE.jpg.png') 0% 0% no-repeat;
+        }
+
+        .ProgramInteligencias{
+            position: relative;
+            top: 20px;
+            left: 20px;
+            width: 200px;
+            height: 200px;
+            background: transparent url('../Images/intPrograma.png') 0% 0% no-repeat;
+            }
+.textPosition{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    width: 55px;
+    height: 55px;
+    font-size: medium;
+    font: normal normal 600 14px/15px Segoe UI;
+}   
+
+.textReporte{
+    text-align: justify;
+    position: absolute;
+    top: 80px;
+    left: 20px;
+    width: 500px;
+    height: 500px;
+    font-size: small;
+    font: 12px/15px Segoe UI;
+    color: black;
+}
+
+.titulos{
+    text-align: center;
+    font-size: small;
+    font: bold 12px/14px caption segoe UI;
+    color: black;
+}
+
+.textReporte2{
+    text-align: justify;
+    position: absolute;
+    top: 200px;
+    left: 20px;
+    width: 500px;
+    height: 500px;
+    font-size: small;
+    font: 12px/15px Segoe UI;
+    color: black;
+}
+
+
+
+
+
